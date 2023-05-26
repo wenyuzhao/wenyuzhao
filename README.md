@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wenyuzhao&hide_title=true&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wenyuzhao&hide_title=true&show_icons=true&count_private=true&rank_icon=github" />
 
 PhD student in programming languages, memory management, and performance evaluation.
 
